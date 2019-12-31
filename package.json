@@ -1,6 +1,6 @@
 {
   "name": "mysql-rds-ca",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Amazon RDS 2019 CA certificate for the mysql module",
   "main": "index.js",
   "author": "tal@toriihq.com",
